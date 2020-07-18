@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="welcome.gif" alt="Um nope"/>
+
+<!-- # Hi there, I'm Nisarg 👋 -->
+
 
 <!--
 **nshah9856/nshah9856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

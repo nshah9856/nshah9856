@@ -1,4 +1,4 @@
-<img src="welcome.gif" alt="Um nope"/>
+<img src="hello.png" alt="Hello there!"/>
 
 <!-- # Hi there, I'm Nisarg 👋 -->
 

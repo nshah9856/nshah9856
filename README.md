@@ -1,6 +1,6 @@
+# Hey there... 👋
 <img src="hello.png" alt="Hello there!"/>
 
-<!-- # Hi there, I'm Nisarg 👋 -->
 
 
 <!--

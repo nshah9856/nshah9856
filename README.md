@@ -1,10 +1,9 @@
 # Hey there... 👋
+<!-- 
 <img src="https://raw.githubusercontent.com/nshah9856/nshah9856/master/hello.png" alt="Hello there!"/>
-
-<a href="https://now-playing-joshlmao.vercel.app/now-playing?open">
-
+-->
 <img src="http://now-playing.nisarg-shah.com/" width="256" height="128" alt="Now Playing">`
-</a>
+
 <!--
 **nshah9856/nshah9856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

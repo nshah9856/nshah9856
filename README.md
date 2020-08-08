@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/nshah9856/nshah9856/master/hello.png" alt="Hello there!"/>
 
 
-<img src="http://now-playing.nisarg-shah.com/" width="256" height="64" alt="Now Playing">`
+<img src="http://now-playing.nisarg-shah.com/" alt="Now Playing">`
 
 <!--
 **nshah9856/nshah9856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
